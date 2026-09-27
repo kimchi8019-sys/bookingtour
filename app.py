@@ -24,6 +24,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
 )
+st.image("logo 3.jpg", use_container_width=True)
 
 Base = declarative_base()
 
