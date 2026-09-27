@@ -1,4 +1,5 @@
 streamlit
+SQLAlchemy
+PyMySQL
 pandas
-pymysql
-sqlalchemy
+Werkzeug
