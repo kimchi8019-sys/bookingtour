@@ -27,7 +27,6 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
 )
-
 DB_CONFIG = {
     "host": "mysql-1b346c1b-kimchi8019-4ea9.e.aivencloud.com",
     "port": 21314,
